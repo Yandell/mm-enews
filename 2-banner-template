@@ -1,0 +1,1199 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+      
+      <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+      <title>Meat Management Weekly</title>
+      <style type="text/css">
+	  	 /* colours - red:#ED1C24; dark grey:#898989; light grey:#F2F2F2; story grey:#555555; */
+         /* Client-specific Styles */
+         #outlook a {padding:0;} /* Force Outlook to provide a "view in browser" menu link. */
+         body{background:#F2F2F2; width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0;}
+         /* Prevent Webkit and Windows Mobile platforms from changing default font sizes, while not breaking desktop design. */
+         .ExternalClass {width:100%;} /* Force Hotmail to display emails at full width */
+         .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing.  More on that: http://www.emailonacid.com/forum/viewthread/43/ */
+         #backgroundTable {margin:0; padding:0; width:100% !important; line-height: 100% !important;}
+         img {outline:none; text-decoration:none;border:none; -ms-interpolation-mode: bicubic;}
+         a img {border:none;}
+         .image_fix {display:block;}
+         p {margin: 0px 0px !important;}
+         
+         table td {border-collapse: collapse;}
+         table { border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; }
+         a {color: #666666;text-decoration: none;text-decoration:none!important;}
+         /*STYLES*/
+         table[class=full] { width: 100%; clear: both; }
+         
+         /*################################################*/
+         /*IPAD STYLES*/
+         /*################################################*/
+         @media only screen and (max-width: 640px) {
+         a[href^="tel"], a[href^="sms"] {
+         text-decoration: none;
+         color: #999999; /* or whatever your want */
+         pointer-events: none;
+         cursor: default;
+         }
+         .mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+         text-decoration: default;
+         color: #999999 !important;
+         pointer-events: auto;
+         cursor: default;
+         }
+         table[class=devicewidth] {width: 440px!important;text-align:center!important;}
+         table[class=devicewidthinner] {width: 420px!important;text-align:center!important;}
+		 td[class=textCenter]{text-align:center!important;}
+		 td[class=sthide]{display:none!important;}
+		 td[class=mobileSpacing]{border-bottom:1px solid #CCCCCC; height:20px!important;}
+		 td[class=mobileSpacingNoBorder]{height:20px!important;}
+         img[class="advertising"]{width: 420px!important;height:70px!important;}
+		 img[class="MMlogo"]{width: 260px!important;height:140px!important;}
+         img[class="col2img"]{width: 420px!important;height:420px!important;}
+		 img[class="teaserSplit"]{width: 420px!important;height:210px!important;}
+         img[class="logo"]{padding:0!important;margin: 0 auto !important;}
+
+         }
+         /*##############################################*/
+         /*IPHONE STYLES*/
+         /*##############################################*/
+         @media only screen and (max-width: 480px) {
+         a[href^="tel"], a[href^="sms"] {
+         text-decoration: none;
+         color: #999999; /* or whatever your want */
+         pointer-events: none;
+         cursor: default;
+         }
+         .mobile_link a[href^="tel"], .mobile_link a[href^="sms"] {
+         text-decoration: default;
+         color: #999999 !important; 
+         pointer-events: auto;
+         cursor: default;
+         }
+         table[class=devicewidth] {width: 280px!important;text-align:center!important;}
+         table[class=devicewidthinner] {width: 260px!important;text-align:center!important;}
+		 td[class=textCenter]{text-align:center!important;}
+		 td[class=sthide]{display:none!important;}
+		 td[class=banner1] {width: 260px!important;height:130px!important;background-image: url('http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/img/mobile_banner.jpg') !important;background-size: cover;}
+		 td[class=banner2] {width: 260px!important;height:130px!important;background-image: url('http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/img/mobile_banner.jpg') !important;background-size: cover;}
+		 td[class=mobileSpacing]{border-bottom:1px solid #CCCCCC; height:20px!important;}
+		 td[class=mobileSpacingNoBorder]{height:20px!important;}
+		 td[class=story]{font-size:16px!important; line-height:22px!important;}
+		 td[class=footerText]{font-size:14px!important; line-height:18px!important;}
+         img[class="advertising"]{display:none!important;}
+		 img[class="MMlogo"]{width: 260px!important;height:140px!important;}
+         img[class="col2img"]{width: 260px!important;height:260px!important;}
+		 img[class="teaserSplit"]{width: 260px!important;height:130px!important;}
+         
+         }
+      </style>
+
+      
+   </head><body>
+<div class="block">
+   <!-- Start of preheader -->
+   <table bgcolor="#F2F2F2" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" width="100%">
+      <tbody>
+         <tr>
+            <td width="100%">
+               <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="580">
+                  <tbody>
+                     <!-- Spacing -->
+                     <tr>
+                        <td height="5" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                     </tr>
+                     <!-- Spacing -->
+                     <tr>
+                        <td align="right" class="sthide" style="font-family: Helvetica, arial, sans-serif; font-size: 10px;color: #999999" valign="middle">
+                           If you cannot read this email, please  <a class="hlite" href="[*link.webversion_url*]" style="text-decoration: none; color: #ED1C24">click here</a> 
+                        </td>
+                     </tr>
+                     <!-- Spacing -->
+                     <tr>
+                        <td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                     </tr>
+                     <!-- Spacing -->
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <!-- End of preheader -->
+</div>
+
+<div class="block">
+   <!-- Start of Header -->
+   <table bgcolor="#F2F2F2" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" width="100%">
+      <tbody>
+         <tr>
+            <td>
+               <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="580">
+                  <tbody>
+                     <tr>
+                        <td height="20" width="100%"></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="540">
+                              <tbody>
+                                 <tr>
+                                    <td>
+                                       <table align="left" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="260">
+                                          <tbody>
+                                             <!-- image -->
+                                             <tr>
+                                                <td align="center" class="devicewidth" height="140" width="260">
+                                                   <a href="http://meatmanagement.com" target="_blank"><img alt="Meat Management Weekly" border="0" class="MMlogo" height="140" src="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/img/MM_weekly_logo.gif" style="display:block; border:none; outline:none; text-decoration:none;" width="260" /></a>
+                                                 </td>
+                                             </tr>
+                                             <!-- end of text content table -->
+                                          </tbody>
+                                       </table>
+                                       <!-- end of left column -->
+                                       <!-- spacing for mobile devices-->
+                                       <table align="left" border="0" cellpadding="0" cellspacing="0" class="mobilespacing">
+                                          <tbody>
+                                             <tr>
+                                                <td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <!-- end of for mobile devices-->
+                                       <!-- start of right column -->
+                                       <table align="right" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="260">
+                                          <tbody>
+                                             <tr>
+                                                <td valign="middle">
+                                                   <!-- start of text content table -->
+                                                   <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="260">
+                                                      <tbody>
+                                                         <!-- title -->
+                                                         <tr>
+                                                            <td class="textCenter" style="font-family: Georgia, Times, serif; font-size: 26px; color: #333333; text-align:left;line-height: 1;">
+                                                               [* USE date *][* date.format(date.now, '%e %B %Y', 'en_GB') *]
+                                                             </td>
+                                                         </tr>
+                                                         <!-- end of title -->
+                                                         <!-- Spacing -->
+                                                         <tr>
+                                                            <td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Spacing -->
+                                                         <!-- content -->
+                                                         <tr>
+                                                            <td valign="middle" class="textCenter" style="font-family: Helvetica, arial, sans-serif; font-size: 20px; color: #666666; text-align:left;line-height: 24px;">
+                                                               [* IF data('first_name') *] Dear [* data('first_name') | html *],<br />[* ELSE *] Dear Reader,<br />[* END *] here's our pick of this week's meat industry news:
+                                                             </td>
+                                                         </tr>
+                                                         <!-- end of content -->
+                                                      </tbody>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                             <!-- end of text content table -->
+                                          </tbody>
+                                      </table>
+                                       <!-- end of right column -->
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td height="20" width="100%"></td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <!-- End of Header -->   
+</div>
+
+<div class="block">
+   <!-- Start of separator -->
+   <table bgcolor="#F2F2F2" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" width="100%">
+      <tbody>
+         <tr>
+            <td width="100%">
+               <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="580">
+                  <tbody>
+                     <!-- Spacing -->
+                     <tr>
+                        <td height="20" width="100%"></td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <!-- End of separator -->
+</div>
+
+<div class="block">
+   <!-- image + text -->
+   <table bgcolor="#F2F2F2" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="bigimage" width="100%">
+      <tbody>
+         <tr>
+            <td>
+               <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" modulebg="edit" width="580">
+                  <tbody>
+                     <tr>
+                        <td height="20" width="100%"></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="540">
+                              <tbody>
+                                 <tr>
+                                    <!-- start of image -->
+                                    <td align="center" class="banner1">
+                                       <a href="#" target="_blank"><img alt="" border="0" class="advertising" height="90" src="http://placehold.it/540x90" style="display:block; border:none; outline:none; text-decoration:none;" width="540" /></a>
+                                    </td>
+                                 </tr>
+                                 <!-- Spacing -->
+                                 <tr>
+                                    <td height="20" style="border-bottom:1px solid #CCCCCC;font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                 </tr>
+                                 <!-- Spacing -->
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+</div>
+
+<div class="block">
+   <!-- Section 1: 1-column -->
+   <table bgcolor="#F2F2F2" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="bigimage" width="100%">
+      <tbody>
+         <tr>
+            <td>
+               <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" modulebg="edit" width="580">
+                  <tbody>
+                     <tr>
+                        <td height="20" width="100%"></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="540">
+                              <tbody>
+                                 <!-- title -->
+                                 <tr>
+                                    <td style="color: #333333; font-family: Helvetica, arial, sans-serif; font-size: 20px; font-weight:bold; letter-spacing:-1px;text-align:left;line-height: 26px;">
+                                       <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #666666;text-decoration: none;text-decoration:none;" target="_blank">Story title goes here</a>
+                                    </td>
+                                 </tr>
+                                 <!-- end of title -->
+                                 <!-- Spacing -->
+                                 <tr>
+                                    <td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                 </tr>
+                                 <!-- Spacing -->
+                                 <!-- content -->
+                                 <tr>
+                                    <td class="story" style="font-family: Helvetica, arial, sans-serif; font-size: 14px; color: #555555; text-align:left;line-height: 20px;" valign="top">
+                                       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+                                    </td>
+                                 </tr>
+                                 <!-- end of content -->
+                                 <!-- Spacing -->
+                                 <tr>
+                                    <td height="10" width="100%"></td>
+                                 </tr>
+                                 <!-- button -->
+                                 <tr>
+                                    <td>
+                                       <table align="left" border="0" cellpadding="0" cellspacing="0" class="tablet-button" height="30" st-button="edit" valign="middle">
+											<tbody>
+												<tr>
+													<td align="center" height="30" style=" background-color:#EEEEEE; border-top-left-radius:4px; border-bottom-left-radius:4px;border-top-right-radius:4px; border-bottom-right-radius:4px; background-clip: padding-box;font-size:14px; font-family:Helvetica, arial, sans-serif; text-align:center;  color:#ED1C24; font-weight: 300; padding-left:18px; padding-right:18px;" valign="middle" width="auto">
+                                                    <span style="color: #ffffff; font-weight: 300;">
+                                                    <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #ED1C24; text-align:center;text-decoration: none;">Read More &rarr;</a>
+                                                    </span>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+                                    </td>
+                                 </tr>
+                                 <!-- /button -->
+                                 <!-- Spacing -->
+                                 <tr>
+                                    <td height="20" style="border-bottom:1px solid #CCCCCC;font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                 </tr>
+                                 <!-- Spacing -->
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+</div>
+
+<div class="block">
+   <!-- Section 2: 2-columns -->
+   <table bgcolor="#F2F2F2" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="2columns" width="100%">
+      <tbody>
+         <tr>
+            <td>
+               <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" modulebg="edit" width="580">
+                  <tbody>
+                     <tr>
+                        <td height="20" width="100%"></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="540">
+                              <tbody>
+                                 <tr>
+                                    <td valign="top">
+                                       <table align="left" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="260">
+                                          <tbody>
+                                             <tr>
+                                                <td>
+                                                   <!-- start of text content table -->
+                                                   <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="260">
+                                                      <tbody>
+                                                         <!-- title -->
+                                                         <tr>
+                                                            <td style="color: #333333; font-family: Helvetica, arial, sans-serif; font-size: 20px; font-weight:bold; letter-spacing:-1px;text-align:left;line-height: 26px;">
+                                                               <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #666666;text-decoration: none;text-decoration:none;" target="_blank">Story title goes here</a>
+                                                           </td>
+                                                         </tr>
+                                                         <!-- end of title -->
+                                                         <!-- Spacing -->
+                                                         <tr>
+                                                            <td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Spacing -->
+                                                         <!-- content -->
+                                                         <tr>
+                                                            <td class="story" style="font-family: Helvetica, arial, sans-serif; font-size: 14px; color: #555555; text-align:left;line-height: 20px;">
+                                                               Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempam et justo duo dolores et ea rebum.
+                                                            </td>
+                                                         </tr>
+                                                         <!-- end of content -->
+                                                         <!-- Spacing -->
+                                                         <tr>
+                                                            <td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Spacing -->
+                                                         <!-- button -->
+                                                         <tr>
+                                                            <td>
+                                                               <table align="left" border="0" cellpadding="0" cellspacing="0" class="tablet-button" height="30" st-button="edit" valign="middle">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td align="center" height="30" style=" background-color:#EEEEEE; border-top-left-radius:4px; border-bottom-left-radius:4px;border-top-right-radius:4px; border-bottom-right-radius:4px; background-clip: padding-box;font-size:14px; font-family:Helvetica, arial, sans-serif; text-align:center;  color:#ED1C24; font-weight: 300; padding-left:18px; padding-right:18px;" valign="middle" width="auto">
+                                                                        <span style="color: #ffffff; font-weight: 300;">
+                                                                        <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #ED1C24; text-align:center;text-decoration: none;">Read More &rarr;</a>
+                                                                        </span>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            </td>
+                                                         </tr>
+                                                         <!-- /button -->
+                                                         <!-- Mobile Spacing -->
+                                                         <tr>
+                                                            <td class="mobileSpacing" height="1" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Mobile Spacing -->
+                                                      </tbody>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                             <!-- end of text content table -->
+                                          </tbody>
+                                       </table>
+                                       <!-- end of left column -->
+                                       <!-- spacing for mobile devices-->
+                                       <table align="left" border="0" cellpadding="0" cellspacing="0" class="mobilespacing">
+                                          <tbody>
+                                             <tr>
+                                                <td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <!-- end of for mobile devices-->
+                                       <!-- start of right column -->
+                                       <table align="right" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="260">
+                                          <tbody>
+                                             <tr>
+                                                <td>
+                                                   <!-- start of text content table -->
+                                                   <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="260">
+                                                      <tbody>
+                                                         <!-- title -->
+                                                         <tr>
+                                                            <td style="color: #333333; font-family: Helvetica, arial, sans-serif; font-size: 20px; font-weight:bold; letter-spacing:-1px;text-align:left;line-height: 26px;">
+                                                               <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #666666;text-decoration: none;text-decoration:none;" target="_blank">Story title goes here</a>
+                                                            </td>
+                                                         </tr>
+                                                         <!-- end of title -->
+                                                         <!-- Spacing -->
+                                                         <tr>
+                                                            <td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Spacing -->
+                                                         <!-- content -->
+                                                         <tr>
+                                                            <td class="story" style="font-family: Helvetica, arial, sans-serif; font-size: 14px; color: #555555; text-align:left;line-height: 20px;">
+                                                               Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempam et justo duo dolores et ea rebum.
+                                                            </td>
+                                                         </tr>
+                                                         <!-- end of content -->
+                                                         <!-- Spacing -->
+                                                         <tr>
+                                                            <td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Spacing -->
+                                                         <!-- button -->
+                                                         <tr>
+                                                            <td>
+                                                               <table align="left" border="0" cellpadding="0" cellspacing="0" class="tablet-button" height="30" st-button="edit" valign="middle">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td align="center" height="30" style=" background-color:#EEEEEE; border-top-left-radius:4px; border-bottom-left-radius:4px;border-top-right-radius:4px; border-bottom-right-radius:4px; background-clip: padding-box;font-size:14px; font-family:Helvetica, arial, sans-serif; text-align:center;  color:#ED1C24; font-weight: 300; padding-left:18px; padding-right:18px;" valign="middle" width="auto">
+                                                                        <span style="color: #ffffff; font-weight: 300;">
+                                                                        <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #ED1C24; text-align:center;text-decoration: none;">Read More &rarr;</a>
+                                                                        </span>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            </td>
+                                                         </tr>
+                                                         <!-- /button -->
+                                                         <!-- Mobile Spacing -->
+                                                         <tr>
+                                                            <td class="mobileSpacing" height="1" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Mobile Spacing -->
+                                                      </tbody>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                             <!-- end of text content table -->
+                                          </tbody>
+                                       </table>
+                                       <!-- end of right column -->
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td height="20" width="100%"></td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <!-- End of 2-columns -->   
+</div>
+
+<div class="block">
+   <!-- Section 3: 2-columns -->
+   <table bgcolor="#F2F2F2" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="2columns" width="100%">
+      <tbody>
+         <tr>
+            <td>
+               <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" modulebg="edit" width="580">
+                  <tbody>
+                     <tr>
+                        <td>
+                           <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="540">
+                              <tbody>
+                              	<!-- Line for desktop layout-->
+                              	<tr>
+                                	<td class="sthide" height="20" style="border-top:1px solid #CCCCCC;font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                </tr>
+                                <!-- End Line for desktop layout-->
+                                 <tr>
+                                    <td valign="top">
+                                       <table align="left" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="260">
+                                          <tbody>
+                                             <tr>
+                                                <td>
+                                                   <!-- start of text content table -->
+                                                   <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="260">
+                                                      <tbody>
+                                                         <!-- title -->
+                                                         <tr>
+                                                            <td style="color: #333333; font-family: Helvetica, arial, sans-serif; font-size: 20px; font-weight:bold; letter-spacing:-1px;text-align:left;line-height: 26px;">
+                                                               <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #666666;text-decoration: none;text-decoration:none;" target="_blank">Story title goes here</a>
+                                                           </td>
+                                                         </tr>
+                                                         <!-- end of title -->
+                                                         <!-- Spacing -->
+                                                         <tr>
+                                                            <td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Spacing -->
+                                                         <!-- content -->
+                                                         <tr>
+                                                            <td class="story" style="font-family: Helvetica, arial, sans-serif; font-size: 14px; color: #555555; text-align:left;line-height: 20px;">
+                                                               Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempam et justo duo dolores et ea rebum.
+                                                            </td>
+                                                         </tr>
+                                                         <!-- end of content -->
+                                                         <!-- Spacing -->
+                                                         <tr>
+                                                            <td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Spacing -->
+                                                         <!-- button -->
+                                                         <tr>
+                                                            <td>
+                                                               <table align="left" border="0" cellpadding="0" cellspacing="0" class="tablet-button" height="30" st-button="edit" valign="middle">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td align="center" height="30" style=" background-color:#EEEEEE; border-top-left-radius:4px; border-bottom-left-radius:4px;border-top-right-radius:4px; border-bottom-right-radius:4px; background-clip: padding-box;font-size:14px; font-family:Helvetica, arial, sans-serif; text-align:center;  color:#ED1C24; font-weight: 300; padding-left:18px; padding-right:18px;" valign="middle" width="auto">
+                                                                        <span style="color: #ffffff; font-weight: 300;">
+                                                                        <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #ED1C24; text-align:center;text-decoration: none;">Read More &rarr;</a>
+                                                                        </span>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            </td>
+                                                         </tr>
+                                                         <!-- /button -->
+                                                         <!-- Mobile Spacing -->
+                                                         <tr>
+                                                            <td class="mobileSpacing" height="1" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Mobile Spacing -->
+                                                      </tbody>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                             <!-- end of text content table -->
+                                          </tbody>
+                                       </table>
+                                       <!-- end of left column -->
+                                       <!-- spacing for mobile devices-->
+                                       <table align="left" border="0" cellpadding="0" cellspacing="0" class="mobilespacing">
+                                          <tbody>
+                                             <tr>
+                                                <td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <!-- end of for mobile devices-->
+                                       <!-- start of right column -->
+                                       <table align="right" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="260">
+                                          <tbody>
+                                             <tr>
+                                                <td>
+                                                   <!-- start of text content table -->
+                                                   <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="260">
+                                                      <tbody>
+                                                         <!-- title -->
+                                                         <tr>
+                                                            <td style="color: #333333; font-family: Helvetica, arial, sans-serif; font-size: 20px; font-weight:bold; letter-spacing:-1px;text-align:left;line-height: 26px;">
+                                                               <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #666666;text-decoration: none;text-decoration:none;" target="_blank">Story title goes here</a>
+                                                            </td>
+                                                         </tr>
+                                                         <!-- end of title -->
+                                                         <!-- Spacing -->
+                                                         <tr>
+                                                            <td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Spacing -->
+                                                         <!-- content -->
+                                                         <tr>
+                                                            <td class="story" style="font-family: Helvetica, arial, sans-serif; font-size: 14px; color: #555555; text-align:left;line-height: 20px;">
+                                                               Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempam et justo duo dolores et ea rebum.
+                                                            </td>
+                                                         </tr>
+                                                         <!-- end of content -->
+                                                         <!-- Spacing -->
+                                                         <tr>
+                                                            <td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Spacing -->
+                                                         <!-- button -->
+                                                         <tr>
+                                                            <td>
+                                                               <table align="left" border="0" cellpadding="0" cellspacing="0" class="tablet-button" height="30" st-button="edit" valign="middle">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td align="center" height="30" style=" background-color:#EEEEEE; border-top-left-radius:4px; border-bottom-left-radius:4px;border-top-right-radius:4px; border-bottom-right-radius:4px; background-clip: padding-box;font-size:14px; font-family:Helvetica, arial, sans-serif; text-align:center;  color:#ED1C24; font-weight: 300; padding-left:18px; padding-right:18px;" valign="middle" width="auto">
+                                                                        <span style="color: #ffffff; font-weight: 300;">
+                                                                        <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #ED1C24; text-align:center;text-decoration: none;">Read More &rarr;</a>
+                                                                        </span>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            </td>
+                                                         </tr>
+                                                         <!-- /button -->
+                                                         <!-- Mobile Spacing -->
+                                                         <tr>
+                                                            <td class="mobileSpacing" height="1" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Mobile Spacing -->
+                                                      </tbody>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                             <!-- end of text content table -->
+                                          </tbody>
+                                       </table>
+                                       <!-- end of right column -->
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td height="20" width="100%"></td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <!-- End of 2-columns -->   
+</div>
+
+<div class="block">
+   <!-- Section 4: 1-column -->
+   <table bgcolor="#F2F2F2" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="bigimage" width="100%">
+      <tbody>
+         <tr>
+            <td>
+               <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" modulebg="edit" width="580">
+                  <tbody>
+                     <tr>
+                        <td>
+                           <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="540">
+                              <tbody>
+                              	<!-- Line for desktop layout-->
+                              	<tr>
+                                	<td class="sthide" height="20" style="border-top:1px solid #CCCCCC;font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                </tr>
+                                <!-- End Line for desktop layout-->
+                                 <!-- title -->
+                                 <tr>
+                                    <td style="color: #333333; font-family: Helvetica, arial, sans-serif; font-size: 20px; font-weight:bold; letter-spacing:-1px;text-align:left;line-height: 26px;">
+                                       <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #666666;text-decoration: none;text-decoration:none;" target="_blank">Story title goes here</a>
+                                    </td>
+                                 </tr>
+                                 <!-- end of title -->
+                                 <!-- Spacing -->
+                                 <tr>
+                                    <td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                 </tr>
+                                 <!-- Spacing -->
+                                 <!-- content -->
+                                 <tr>
+                                    <td class="story" style="font-family: Helvetica, arial, sans-serif; font-size: 14px; color: #555555; text-align:left;line-height: 20px;" valign="top">
+                                       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+                                    </td>
+                                 </tr>
+                                 <!-- end of content -->
+                                 <!-- Spacing -->
+                                 <tr>
+                                    <td height="10" width="100%"></td>
+                                 </tr>
+                                 <!-- button -->
+                                 <tr>
+                                    <td>
+                                       <table align="left" border="0" cellpadding="0" cellspacing="0" class="tablet-button" height="30" st-button="edit" valign="middle">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td align="center" height="30" style=" background-color:#EEEEEE; border-top-left-radius:4px; border-bottom-left-radius:4px;border-top-right-radius:4px; border-bottom-right-radius:4px; background-clip: padding-box;font-size:14px; font-family:Helvetica, arial, sans-serif; text-align:center;  color:#ED1C24; font-weight: 300; padding-left:18px; padding-right:18px;" valign="middle" width="auto">
+                                                                        <span style="color: #ffffff; font-weight: 300;">
+                                                                        <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #ED1C24; text-align:center;text-decoration: none;">Read More &rarr;</a>
+                                                                        </span>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                    </td>
+                                 </tr>
+                                 <!-- /button -->
+                                 <!-- Mobile Spacing -->
+                                 <tr>
+                                    <td class="mobileSpacing" height="20" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                 </tr>
+                                 <!-- /Mobile Spacing -->
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+</div>
+
+<div class="block">
+   <!-- Section 5: 2-columns -->
+   <table bgcolor="#F2F2F2" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="2columns" width="100%">
+      <tbody>
+         <tr>
+            <td>
+               <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" modulebg="edit" width="580">
+                  <tbody>
+                     <tr>
+                        <td>
+                           <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="540">
+                              <tbody>
+                              	<!-- Line for desktop layout-->
+                              	<tr>
+                                	<td class="sthide" height="20" style="border-top:1px solid #CCCCCC;font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                </tr>
+                                <!-- End Line for desktop layout-->
+                                 <tr>
+                                    <td valign="top">
+                                       <table align="left" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="260">
+                                          <tbody>
+                                             <tr>
+                                                <td>
+                                                   <!-- start of text content table -->
+                                                   <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="260">
+                                                      <tbody>
+                                                      	<!-- Mobile Spacing -->
+                                                        <!-- Required for mobile spacing after last story -->
+                                                         <tr>
+                                                            <td class="mobileSpacingNoBorder" height="1" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Mobile Spacing -->
+                                                         <!-- title -->
+                                                         <tr>
+                                                            <td style="color: #333333; font-family: Helvetica, arial, sans-serif; font-size: 20px; font-weight:bold; letter-spacing:-1px;text-align:left;line-height: 26px;">
+                                                               <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #666666;text-decoration: none;text-decoration:none;" target="_blank">Story title goes here</a>
+                                                           </td>
+                                                         </tr>
+                                                         <!-- end of title -->
+                                                         <!-- Spacing -->
+                                                         <tr>
+                                                            <td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Spacing -->
+                                                         <!-- content -->
+                                                         <tr>
+                                                            <td class="story" style="font-family: Helvetica, arial, sans-serif; font-size: 14px; color: #555555; text-align:left;line-height: 20px;">
+                                                               Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempam et justo duo dolores et ea rebum.
+                                                            </td>
+                                                         </tr>
+                                                         <!-- end of content -->
+                                                         <!-- Spacing -->
+                                                         <tr>
+                                                            <td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Spacing -->
+                                                         <!-- button -->
+                                                         <tr>
+                                                            <td>
+                                                               <table align="left" border="0" cellpadding="0" cellspacing="0" class="tablet-button" height="30" st-button="edit" valign="middle">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td align="center" height="30" style=" background-color:#EEEEEE; border-top-left-radius:4px; border-bottom-left-radius:4px;border-top-right-radius:4px; border-bottom-right-radius:4px; background-clip: padding-box;font-size:14px; font-family:Helvetica, arial, sans-serif; text-align:center;  color:#ED1C24; font-weight: 300; padding-left:18px; padding-right:18px;" valign="middle" width="auto">
+                                                                        <span style="color: #ffffff; font-weight: 300;">
+                                                                        <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #ED1C24; text-align:center;text-decoration: none;">Read More &rarr;</a>
+                                                                        </span>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            </td>
+                                                         </tr>
+                                                         <!-- /button -->
+                                                         <!-- Mobile Spacing -->
+                                                         <tr>
+                                                            <td class="mobileSpacing" height="1" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Mobile Spacing -->
+                                                      </tbody>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                             <!-- end of text content table -->
+                                          </tbody>
+                                       </table>
+                                       <!-- end of left column -->
+                                       <!-- spacing for mobile devices-->
+                                       <table align="left" border="0" cellpadding="0" cellspacing="0" class="mobilespacing">
+                                          <tbody>
+                                             <tr>
+                                                <td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <!-- end of for mobile devices-->
+                                       <!-- start of right column -->
+                                       <table align="right" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="260">
+                                          <tbody>
+                                             <tr>
+                                                <td>
+                                                   <!-- start of text content table -->
+                                                   <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="260">
+                                                      <tbody>
+                                                      	 <!-- Mobile Spacing -->
+                                                         <tr>
+                                                            <td height="1" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Mobile Spacing -->
+                                                         <!-- title -->
+                                                         <tr>
+                                                            <td style="color: #333333; font-family: Helvetica, arial, sans-serif; font-size: 20px; font-weight:bold; letter-spacing:-1px;text-align:left;line-height: 26px;">
+                                                               <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #666666;text-decoration: none;text-decoration:none;" target="_blank">Story title goes here</a>
+                                                            </td>
+                                                         </tr>
+                                                         <!-- end of title -->
+                                                         <!-- Spacing -->
+                                                         <tr>
+                                                            <td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Spacing -->
+                                                         <!-- content -->
+                                                         <tr>
+                                                            <td class="story" style="font-family: Helvetica, arial, sans-serif; font-size: 14px; color: #555555; text-align:left;line-height: 20px;">
+                                                               Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempam et justo duo dolores et ea rebum.
+                                                            </td>
+                                                         </tr>
+                                                         <!-- end of content -->
+                                                         <!-- Spacing -->
+                                                         <tr>
+                                                            <td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Spacing -->
+                                                         <!-- button -->
+                                                         <tr>
+                                                            <td>
+                                                               <table align="left" border="0" cellpadding="0" cellspacing="0" class="tablet-button" height="30" st-button="edit" valign="middle">
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td align="center" height="30" style=" background-color:#EEEEEE; border-top-left-radius:4px; border-bottom-left-radius:4px;border-top-right-radius:4px; border-bottom-right-radius:4px; background-clip: padding-box;font-size:14px; font-family:Helvetica, arial, sans-serif; text-align:center;  color:#ED1C24; font-weight: 300; padding-left:18px; padding-right:18px;" valign="middle" width="auto">
+                                                                        <span style="color: #ffffff; font-weight: 300;">
+                                                                        <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #ED1C24; text-align:center;text-decoration: none;">Read More &rarr;</a>
+                                                                        </span>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                            </td>
+                                                         </tr>
+                                                         <!-- /button -->
+                                                         <!-- Mobile Spacing -->
+                                                         <tr>
+                                                            <td class="mobileSpacing" height="1" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                                         </tr>
+                                                         <!-- /Mobile Spacing -->
+                                                      </tbody>
+                                                   </table>
+                                                </td>
+                                             </tr>
+                                             <!-- end of text content table -->
+                                          </tbody>
+                                       </table>
+                                       <!-- end of right column -->
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td height="20" width="100%"></td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <!-- End of 2-columns -->   
+</div>
+
+<div class="block">
+   <!-- Section 4: 1-column -->
+   <table bgcolor="#F2F2F2" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="bigimage" width="100%">
+      <tbody>
+         <tr>
+            <td>
+               <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" modulebg="edit" width="580">
+                  <tbody>
+                     <tr>
+                        <td>
+                           <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="540">
+                              <tbody>
+                              	<!-- Line for desktop layout-->
+                              	<tr>
+                                	<td class="sthide" height="20" style="border-top:1px solid #CCCCCC;font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                </tr>
+                                <!-- End Line for desktop layout-->
+                                 <!-- title -->
+                                 <tr>
+                                    <td style="color: #333333; font-family: Helvetica, arial, sans-serif; font-size: 24px; font-weight:normal; text-align:center;line-height: 30px;">
+                                       <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #666666;text-decoration: none;text-decoration:none;" target="_blank">More stories from last week</a>
+                                    </td>
+                                 </tr>
+                                 <!-- end of title -->
+                                 <!-- Spacing -->
+                                 <tr>
+                                    <td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                 </tr>
+                                 <!-- Spacing -->
+                                 <!-- content -->
+                                 <tr>
+                                    <td style="font-family: Helvetica, arial, sans-serif; font-size: 16px; color: #555555; text-align:center;line-height: 22px;" valign="top">
+                                       <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #ED1C24;text-decoration: none;" target="_blank">Story 1</a><br />
+                                       <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #ED1C24;text-decoration: none;" target="_blank">Story 2</a><br />
+                                       <a href="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/Y2896_MM_e_newsletter_mobile_July2014.html" style="color: #ED1C24;text-decoration: none;" target="_blank">Story 3</a>
+                                    </td>
+                                 </tr>
+                                 <!-- end of content -->
+                                 <!-- Spacing -->
+                                 <tr>
+                                    <td height="20" width="100%"></td>
+                                 </tr>
+                                 <!-- Spacing -->
+                                 <!-- start of banner 2 -->
+                                 <tr>
+                                    <td align="center" class="banner2">
+                                       <a href="#" target="_blank"><img alt="" border="0" class="advertising" height="90" src="http://placehold.it/540x90" style="display:block; border:none; outline:none; text-decoration:none;" width="540" /></a>
+                                    </td>
+                                 </tr>
+                                 <!-- end of banner 2 -->
+                                 <!-- Spacing -->
+                                 <tr>
+                                    <td height="20" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                 </tr>
+                                 <!-- Spacing -->
+                                 <!-- Spacing -->
+                                 <tr>
+                                    <td height="1" style="border-top:1px solid #CCCCCC; font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                 </tr>
+                                 <!-- Spacing -->
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+</div>
+
+<div class="block">
+   <!-- image + text -->
+   <table bgcolor="#F2F2F2" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="bigimage" width="100%">
+      <tbody>
+         <tr>
+            <td>
+               <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" modulebg="edit" width="580">
+                  <tbody>
+                     <tr>
+                        <td height="15" width="100%"></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidthinner" width="540">
+                              <tbody>
+                                 <!-- content -->
+                                 <tr>
+                                    <td class="story" style="font-family: Helvetica, arial, sans-serif; font-size: 14px; color: #555555; text-align:center;line-height: 20px;" valign="top">
+                                       For all of our current news stories, and to search our news archives go to <a href="http://meatmanagement.com" style="color: #ED1C24;" target="_blank">meatmanagement.com</a>
+                                    </td>
+                                 </tr>
+                                 <!-- end of content -->
+                                 <!-- Spacing -->
+                                 <tr>
+                                    <td height="20" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                 </tr>
+                                 <!-- Spacing -->
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+</div>
+
+<div class="block">
+   <!-- Start of separator -->
+   <table bgcolor="#F2F2F2" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" width="100%">
+      <tbody>
+         <tr>
+            <td width="100%">
+               <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="580">
+                  <tbody>
+                     <!-- Spacing -->
+                     <tr>
+                        <td height="20" width="100%"></td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <!-- End of separator -->
+</div>
+
+<div class="block">
+   <!-- Start of 2-columns -->
+   <table bgcolor="#F2F2F2" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" width="100%">
+      <tbody>
+         <tr>
+            <td>
+               <table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="580">
+                  <tbody>
+                     <tr>
+                        <td height="20" width="100%"></td>
+                     </tr>
+                     <tr>
+                        <td>
+                           <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="540">
+                              <tbody>
+                                 <tr>
+                                    <td>
+                                       <table align="left" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="260">
+                                          <tbody>
+                                             <!-- Teaser 1 -->
+                                             <tr>
+                                                <td align="center" class="devicewidth" height="260" width="260"><a href="http://www.foodmanagement.today/awards/" target="_blank" title="Click here to vote or nominate your products in the FMT Food Awards"><img alt="Enter the FMT Food Awards - click here!" border="0" class="col2img" height="260" src="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/img/FMT_Awards_2015_voting.jpg" style="display:block; border:none; outline:none; text-decoration:none;" width="260" /></a>
+                                                </td>
+                                             </tr>
+                                             <!-- / Teaser 1 -->
+                                          </tbody>
+                                       </table>
+                                       <!-- end of left column -->
+                                       <!-- spacing for mobile devices-->
+                                       <table align="left" border="0" cellpadding="0" cellspacing="0" class="mobilespacing">
+                                          <tbody>
+                                             <tr>
+                                                <td height="15" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                                             </tr>
+                                          </tbody>
+                                       </table>
+                                       <!-- end of for mobile devices-->
+                                       <!-- start of right column -->
+                                       <table align="right" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="260">
+                                          <tbody>
+                                             <!-- Teaser 2 -->
+                                             <tr>
+                                                <td align="center" class="devicewidth" height="130" width="260"><a href="http://meatmanagement.com/emag" target="_blank" title="Click here to open the latest Meat Management"><img alt="Open the latest Meat Management" border="0" class="teaserSplit" height="130" src="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/img/Latest_issue_teaser.jpg" style="display:block; border:none; outline:none; text-decoration:none;" width="260" /></a>
+                                                </td>
+                                             </tr>
+                                             <!-- / Teaser 2 -->
+                                             <!-- Teaser 3 -->
+                                             <tr>
+                                                <td align="center" class="devicewidth" height="130" width="260"><a href="https://itunes.apple.com/gb/app/meat-management/id808175426?mt=8" target="_blank" title="Click here to download Meat Management from the Apple App Store"><img alt="Open the latest Meat Management" border="0" class="teaserSplit" height="130" src="http://meatmanagement.msgfocus.com/files/amf_yandell_publishing/project_165/Y2896-MM-e-newsletter-mobile-August/img/App_store_teaser.jpg" style="display:block; border:none; outline:none; text-decoration:none;" width="260" /></a>
+                                                </td>
+                                             </tr>
+                                             <!-- / Teaser 3 -->
+                                          </tbody>
+                                       </table>
+                                       <!-- end of right column -->
+                                    </td>
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td height="20" width="100%"></td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <!-- End of 2-columns -->   
+</div>
+
+<div class="block">
+   <!-- Start of separator -->
+   <table bgcolor="#F2F2F2" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" width="100%">
+      <tbody>
+         <tr>
+            <td width="100%">
+               <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="580">
+                  <tbody>
+                     <!-- Spacing -->
+                     <tr>
+                        <td height="20" width="100%"></td>
+                     </tr>
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <!-- End of separator -->
+</div>
+
+<div class="block">
+   <!-- Start of preheader -->
+   <table bgcolor="#F2F2F2" border="0" cellpadding="0" cellspacing="0" id="backgroundTable" st-sortable="postfooter" width="100%">
+      <tbody>
+         <tr>
+            <td width="100%">
+               <table align="center" border="0" cellpadding="0" cellspacing="0" class="devicewidth" width="580">
+                  <tbody>
+                     <!-- Spacing -->
+                     <tr>
+                        <td height="5" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                     </tr>
+                     <!-- Spacing -->
+                     <tr>
+                        <td align="center" class="footerText" style="color: #999999; font-family: Helvetica, arial, sans-serif; font-size: 10px; line-height:14px;" valign="middle">
+                        	<em>&copy; Yandell Publishing Limited 2014.</em>
+                            <br />
+                           This e-mail is from Yandell Media Group. Please do not reply to this message as it is an automated e-mail. If you do not want to receive future e-news mailings and other messages about Meat Management we feel will be of interest, you can unsubscribe by <a href="[*link.unsub_url*]" style="text-decoration: none; color: #ED1C24">clicking here</a>
+                           <br />
+                           <br />
+                           <span class="mobile_link">Yandell Publishing Ltd, PO Box 5122, Milton Keynes MK15 8ZP. Registered No. 1975794.</span>
+                        </td>
+                     </tr>
+                     <!-- Spacing -->
+                     <tr>
+                        <td height="10" style="font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width="100%">&nbsp;</td>
+                     </tr>
+                     <!-- Spacing -->
+                  </tbody>
+               </table>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <!-- End of preheader -->
+</div>
+
+</body>
+</html>
